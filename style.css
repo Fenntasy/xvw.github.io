@@ -13,6 +13,7 @@ body {
     height: 100vh;
     flex-direction: column;
     color: #FFF;
+    margin: 0;
 }
 
 .content {
