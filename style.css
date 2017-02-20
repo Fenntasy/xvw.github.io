@@ -9,7 +9,7 @@ body {
     margin: 0;
     font-family: 'Ek Mukta', sans-serif;
     font-weight: 400;
-    background-color: #FF358B;
+    background-color: tomato;
     display: flex;
     height: 100vh;
     flex-direction: column;
